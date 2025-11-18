@@ -11,14 +11,20 @@ I'm a Computer Engineering student passionate about programming and technology. 
 - Develop problem-solving skills
 - Prepare for my computer engineering career
 - Build an impressive portfolio
+## 🚀 Projects
+
+### Day 1: Band Name Generator
+- **Description:** Generates creative band names from city and pet names
+- **Skills:** Input/Output, String concatenation
+- **File:** `day1_band_generator.py`
 
 ## 📊 Progress Tracker
 
 | Metric | Status |
 |--------|--------|
-| **Start Date** | December 2024 |
-| **Current Day** | Day 0 🚀 |
-| **Projects Completed** | 0/100 |
+| **Start Date** | November 2024  |
+| **Current Day** | Day 1 🚀 |
+| **Projects Completed** | 1/100 |
 | **Current Streak** | 1 day |
 
 ## 🚀 Projects Log
@@ -26,8 +32,8 @@ I'm a Computer Engineering student passionate about programming and technology. 
 | Day | Project | Concepts Learned | Status |
 |-----|---------|------------------|--------|
 | 0 | GitHub & Portfolio Setup | Version Control, README | ✅ Complete |
-| 1 | Coming Soon! | | 🔜 Next |
-
+| 1  |Band Name Generator | Input/Output, Strings | Complete ✅ |
+| 2 | Coming Soon! | Next | S
 ## 🛠️ Technologies I'm Learning
 - Python Fundamentals
 - Data Structures & Algorithms
